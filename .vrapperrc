@@ -1,0 +1,39 @@
+" Keep my line focus in the middle of the screen
+set scrolloff=500
+
+" Never use Esc key anymore
+inoremap <esc> <nop>
+inoremap jk <esc>
+
+" Faster Ex-mode
+nnoremap : ;
+nnoremap ; :
+
+" Slightly faster scrolling
+nnoremap <C-e> 3j
+nnoremap <C-y> 3k
+
+" Disable mouse
+set mouse=
+
+" Always start visual LINE mode
+nnoremap v V
+nnoremap V v
+vnoremap v V
+vnoremap V v
+
+" move to beginning/end of line
+nnoremap B ^
+nnoremap E $
+
+set cam on
+set snm on
+set cleanindent off
+
+let mapleader = ","
+let g:mapleader = ","
+" Fast saving
+nmap <leader>w :w!<cr>
+
+set laststatus=2
+

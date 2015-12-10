@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Satarus/Work/repositories/osgi_bundles/sms-platform-single'
+let g:netrw_dirhist_2='/Users/Satarus/Work/repositories/osgi_bundles/sms-platform-single/src/main/resources/root/js'
+let g:netrw_dirhist_3='/Users/Satarus/Playgrounds/ruby_playground/repositories/bitbucket_repositories/clubdms'
+let g:netrw_dirhist_4='/Users/Satarus/Work/repositories/androlyzer-alpha/androlyzer-decoder'
+let g:netrw_dirhist_5='/Users/alwin/.config'
+let g:netrw_dirhist_6='/Users/alwin/.subversion/auth/svn.username'
