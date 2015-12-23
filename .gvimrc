@@ -2,7 +2,7 @@
 set guifont=Fantasque\ Sans\ Mono:h14
 
 " Always start in full screen mode
-set fu
+" set fu
 
 " Remove all scrollbars
 set guioptions-=m

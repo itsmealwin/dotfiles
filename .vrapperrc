@@ -35,5 +35,3 @@ let g:mapleader = ","
 " Fast saving
 nmap <leader>w :w!<cr>
 
-set laststatus=2
-
