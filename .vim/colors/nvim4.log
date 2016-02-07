@@ -1,0 +1,103 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.014  000.014: --- NVIM STARTING ---
+000.704  000.690: locale set
+001.476  000.772: inits 1
+001.498  000.022: window checked
+002.023  000.525: parsing arguments
+002.028  000.005: expanding arguments
+002.145  000.117: inits 2
+002.361  000.217: init highlight
+003.436  000.346  000.346: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syncolor.vim
+003.630  000.687  000.342: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/synload.vim
+020.977  017.219  017.219: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/filetype.vim
+021.070  018.318  000.412: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syntax.vim
+021.614  000.285  000.285: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syncolor.vim
+022.257  000.238  000.238: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syncolor.vim
+022.755  000.240  000.240: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syncolor.vim
+031.960  010.222  009.744: sourcing /Users/alwin/.config/nvim/colors/gruvbox.vim
+032.582  000.021  000.021: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/filetype.vim
+032.736  000.015  000.015: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/filetype.vim
+033.003  000.068  000.068: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/ftplugin.vim
+033.159  000.019  000.019: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/filetype.vim
+033.338  000.053  000.053: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/indent.vim
+033.868  000.014  000.014: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/macros/matchit.vim
+037.600  002.222  002.222: sourcing /Users/alwin/.config/nvim/autoload/plug.vim
+042.696  001.028  001.028: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/ftoff.vim
+043.600  000.020  000.020: sourcing /Users/alwin/.vim/plugged/vim-tmux/ftdetect/tmux.vim
+067.308  005.944  005.944: sourcing /Users/alwin/.vim/plugged/vim-polyglot/ftdetect/polyglot.vim
+067.653  000.066  000.066: sourcing /Users/alwin/.vim/plugged/vim-polyglot/after/ftdetect/rspec.vim
+067.793  022.315  016.304: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/filetype.vim
+068.095  000.016  000.016: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/ftplugin.vim
+068.365  000.015  000.015: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/indent.vim
+068.737  000.167  000.167: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/nosyntax.vim
+069.756  000.253  000.253: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syncolor.vim
+070.516  000.320  000.320: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syncolor.vim
+079.279  010.217  009.644: sourcing /Users/alwin/.config/nvim/colors/gruvbox.vim
+079.397  010.421  000.204: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/synload.vim
+079.437  010.946  000.358: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/syntax/syntax.vim
+080.097  077.499  011.923: sourcing /Users/alwin/.config/nvim/init.vim
+080.107  000.248: sourcing vimrc file(s)
+081.154  000.399  000.399: sourcing /Users/alwin/.config/nvim/eclim/autoload/eclim.vim
+082.110  000.116  000.116: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/autoload/provider/pythonx.vim
+082.793  000.339  000.339: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/autoload/remote/host.vim
+082.955  001.228  000.773: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/autoload/provider/python.vim
+087.952  001.789  001.789: sourcing /Users/alwin/.config/nvim/eclim/autoload/eclim/util.vim
+089.606  003.810  002.021: sourcing /Users/alwin/.config/nvim/eclim/autoload/eclim/util.vim
+090.488  000.341  000.341: sourcing /Users/alwin/.config/nvim/eclim/autoload/eclim/common/buffers.vim
+090.747  009.374  003.995: sourcing /Users/alwin/.config/nvim/eclim/plugin/eclim.vim
+090.884  000.082  000.082: sourcing /Users/alwin/.config/nvim/eclim/plugin/ftdetect.vim
+091.161  000.203  000.203: sourcing /Users/alwin/.config/nvim/eclim/plugin/ftdetect_jdt.vim
+091.413  000.194  000.194: sourcing /Users/alwin/.config/nvim/eclim/plugin/java_tools.vim
+092.629  001.167  001.167: sourcing /Users/alwin/.config/nvim/eclim/plugin/project.vim
+094.189  001.499  001.499: sourcing /Users/alwin/.config/nvim/eclim/plugin/settings_java.vim
+094.294  000.048  000.048: sourcing /Users/alwin/.config/nvim/eclim/plugin/vimplugin.vim
+094.804  014.508  001.543: sourcing /Users/alwin/.config/nvim/plugin/eclim.vim
+097.740  002.814  002.814: sourcing /Users/alwin/.vim/plugged/vim-unimpaired/plugin/unimpaired.vim
+098.262  000.389  000.389: sourcing /Users/alwin/.vim/plugged/vim-commentary/plugin/commentary.vim
+099.372  000.931  000.931: sourcing /Users/alwin/.vim/plugged/vim-surround/plugin/surround.vim
+100.027  000.486  000.486: sourcing /Users/alwin/.vim/plugged/vim-rsi/plugin/rsi.vim
+100.916  000.745  000.745: sourcing /Users/alwin/.fzf/plugin/fzf.vim
+101.612  000.540  000.540: sourcing /Users/alwin/.vim/plugged/fzf.vim/plugin/fzf.vim
+101.740  000.021  000.021: sourcing /Users/alwin/.vim/plugged/goyo.vim/plugin/goyo.vim
+101.848  000.021  000.021: sourcing /Users/alwin/.vim/plugged/rainbow_parentheses.vim/plugin/rainbow_parentheses.vim
+104.149  002.203  002.203: sourcing /Users/alwin/.vim/plugged/vimwiki/plugin/vimwiki.vim
+104.628  000.357  000.357: sourcing /Users/alwin/.vim/plugged/incsearch.vim/plugin/incsearch.vim
+104.939  000.165  000.165: sourcing /Users/alwin/.vim/plugged/incsearch-fuzzy.vim/plugin/incsearch/fuzzy.vim
+106.312  001.284  001.284: sourcing /Users/alwin/.vim/plugged/vim-sneak/plugin/sneak.vim
+106.823  000.383  000.383: sourcing /Users/alwin/.vim/plugged/auto-pairs/plugin/auto-pairs.vim
+107.336  000.396  000.396: sourcing /Users/alwin/.vim/plugged/YouCompleteMe/plugin/youcompleteme.vim
+107.911  000.060  000.060: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/getscriptPlugin.vim
+108.117  000.175  000.175: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/gzip.vim
+108.167  000.019  000.019: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/man.vim
+108.784  000.590  000.590: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/matchit.vim
+109.068  000.234  000.234: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/matchparen.vim
+109.704  000.597  000.597: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/netrwPlugin.vim
+110.280  000.173  000.173: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/autoload/remote/define.vim
+110.480  000.650  000.477: sourcing /Users/alwin/.vim/.init.vim-rplugin~
+110.489  000.723  000.073: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/rplugin.vim
+110.543  000.014  000.014: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/rrhelper.vim
+110.674  000.097  000.097: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/shada.vim
+110.744  000.026  000.026: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/spellfile.vim
+110.897  000.120  000.120: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/tarPlugin.vim
+111.025  000.090  000.090: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/tohtml.vim
+111.080  000.020  000.020: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/tutor.vim
+111.257  000.123  000.123: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/vimballPlugin.vim
+111.464  000.155  000.155: sourcing /usr/local/Cellar/neovim/0.1.1/share/nvim/runtime/plugin/zipPlugin.vim
+111.543  003.149: loading plugins
+111.547  000.004: inits 3
+127.840  016.293: reading ShaDa
+128.539  000.698: clearing screen
+131.001  000.742  000.742: sourcing /Users/alwin/.config/nvim/eclim/autoload/eclim/display/signs.vim
+136.109  006.828: opening buffers
+137.099  000.990: BufEnter autocommands
+137.107  000.008: editing files in windows
+248.332  110.832  110.832: sourcing /Users/alwin/.vim/plugged/YouCompleteMe/autoload/youcompleteme.vim
+400.805  152.866: VimEnter autocommands
+400.811  000.006: before starting main loop
+414.622  013.811: first screen update
+414.629  000.007: --- NVIM STARTED ---
