@@ -1,0 +1,9 @@
+pane	Home	1	:dotfiles	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	Vim	:/usr/local/Cellar/macvim/7.4-86/MacVim.app/Contents/MacOS/Vim /Users/alwin/.vimrc
+pane	Home	2	:fish	0	:	1	:/Users/alwin	1	fish	:
+pane	Home	3	:ranger	0	:-	1	:/Users/alwin	1	Python	:/usr/bin/python -O /usr/local/bin/ranger
+pane	Home	4	:fish	0	:	1	:/Applications/Skim.app/Contents/MacOS	1	fish	:
+window	Home	1	1	:*	d35e,238x68,0,0,1
+window	Home	2	0	:	d35f,238x68,0,0,2
+window	Home	3	0	:-	d360,238x68,0,0,3
+window	Home	4	0	:	d361,238x68,0,0,4
+state	Home	

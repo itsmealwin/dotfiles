@@ -1,0 +1,73 @@
+%%                       o8o  oooo         o8o
+%%                       `"'  `888         `"'
+%%     oooo oooo    ooo oooo   888  oooo  oooo
+%%      `88. `88.  .8'  `888   888 .8P'   `888
+%%       `88..]88..8'    888   888888.     888
+%%        `888'`888'     888   888 `88b.   888
+%%         `8'  `8'     o888o o888o o888o o888o
+
+%% ================================================================================
+                               %% Table of Contents
+%% ================================================================================
+
+
+= Contents =
+    - [[#MasterStudium|MasterStudium]]
+    - [[#Work|Work]]
+    - [[#Personal|Personal]]
+
+
+%% ================================================================================
+                                   %% TU-Berlin
+%% ================================================================================
+
+
+= MasterStudium =
+
+    == * [[WirelessLab]] ==
+
+    == * [[DistributedAlgorithm]] ==
+        === - [[Clocks]] ===
+        === - [[ConsistentSnapshotsAndDeadlockDetection]] ===
+        === - [[FaultTolerance]] ===
+
+    == * [[TreatmentEffectAnalysis]] ==
+
+    == * [[MultivariateAnalysis]] ==
+
+
+%% ================================================================================
+                                   %% DAI-Labor
+%% ================================================================================
+
+
+= Work =
+
+    == [[Auvegos-Scanner (CPE/CVE) - Meeting 04/01]] ==
+        # Look at what OpenVAS delivers as result vs AuVeGoS (Nmap, etc)
+            # Install softwares on the dummy-laptop (decide on which software discoverable by Nmap)
+            # Papers publication (?)
+        # Look at RegistryScanner (ID-tags from WindowsInstaller)
+
+     == [[Auvegos-Future - Meeting 11/01]] ==
+        # Nmap scan : better performance (? - Cooperation with new member - Tui)
+        # Next step : full scan on ITDZ again
+        # 1A - Product is expected, also from user interface
+        # Organize another meeting with design-team
+
+
+%% ================================================================================
+                                %% Personal Stuffs
+%% ================================================================================
+
+
+= Personal =
+
+
+%% ================================================================================
+                                 %% Miscellaneous
+%% ================================================================================
+
+
+= Generated Links =
+

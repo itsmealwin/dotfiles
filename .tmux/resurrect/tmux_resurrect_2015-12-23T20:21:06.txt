@@ -1,0 +1,14 @@
+pane	ACS	1	:ranger	0	:-	1	:/Users/alwin/Documents	1	Python	:/usr/bin/python -O /usr/local/bin/ranger
+pane	ACS	2	:vim-acs	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	Vim	:/usr/local/Cellar/macvim/7.4-86/MacVim.app/Contents/MacOS/Vim acs.network.analysis/acs.network.analysis.network.merger/src/main/java/de/dailab/acs/network/analysis/network/merger/utils/NetworkResponseMergerUtil.java
+pane	ACS	3	:svn	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	ACS	4	:home	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	ACS	4	:home	0	:	2	:/Users/alwin	0	fish	:
+pane	ACS	5	:vimrc	0	:	1	:/Users/alwin	1	fish	:
+pane	Home	1	:fish	1	:*	1	:/Users/alwin	1	fish	:
+window	ACS	1	0	:-	d35d,238x68,0,0,0
+window	ACS	2	1	:*	d35e,238x68,0,0,1
+window	ACS	3	0	:	d361,238x68,0,0,4
+window	ACS	4	0	:	333d,238x68,0,0[238x34,0,0,10,238x33,0,35,17]
+window	ACS	5	0	:	69e0,238x68,0,0,11
+window	Home	1	1	:*	69e3,238x68,0,0,14
+state	ACS	Home

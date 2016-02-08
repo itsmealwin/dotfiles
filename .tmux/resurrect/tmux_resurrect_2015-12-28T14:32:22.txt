@@ -1,0 +1,10 @@
+pane	Home	1	:fish	0	:	1	:/Users/alwin/tmux-powerline	1	fish	:
+pane	Home	1	:fish	0	:	2	:/Users/alwin	0	fish	:
+pane	Home	2	:nvimAcs	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	Home	3	:svn	0	:-	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk/acs.network.analysis/acs.network.analysis.network.merger	1	fish	:
+pane	Home	4	:dotfiles	1	:*	1	:/Users/alwin	1	nvim	:nvim /Users/alwin/.vimrc
+window	Home	1	0	:	6789,278x73,0,0{139x73,0,0,1,138x73,140,0,5}
+window	Home	2	0	:	c25f,278x73,0,0,2
+window	Home	3	0	:-	c260,278x73,0,0,3
+window	Home	4	1	:*	c261,278x73,0,0,4
+state	Home	

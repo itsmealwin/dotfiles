@@ -1,0 +1,9 @@
+pane	Home	1	:ranger	0	:	1	:/usr/local	1	ruby	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb update
+pane	Home	2	:nvimAcs	0	:-	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	nvim	:nvim acs.network.analysis/acs.network.analysis.network.merger/src/main/java/de/dailab/acs/network/analysis/network/merger/utils/NetworkResponseMergerUtil.java
+pane	Home	3	:svn	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	Home	4	:dotfiles	0	:	1	:/Users/alwin	1	nvim	:nvim /Users/alwin/.vimrc
+window	Home	1	0	:	d35d,238x68,0,0,0
+window	Home	2	0	:-	d35e,238x68,0,0,1
+window	Home	3	1	:*	d35f,238x68,0,0,2
+window	Home	4	0	:	d361,238x68,0,0,4
+state	Home	

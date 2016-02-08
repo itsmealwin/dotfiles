@@ -1,0 +1,21 @@
+pane	home	1	:fish	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	home	2	:nvimAcs	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	home	3	:svn	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	home	4	:dotfiles	0	:-	1	:/Users/alwin	1	nvim	:nvim /Users/alwin/.vim/init.vim
+pane	home	5	:misc	0	:	1	:/Users/alwin/Documents/Uni/Masterstudium/DistributedAlgorithms/WorkspaceDistributedAlgorithm	1	fish	:
+pane	wlab	1	:home	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	wlab	2	:stepping-stone	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	wlab	3	:client	0	:-	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	wlab	4	:ap	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	wlab	5	:misc	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+window	home	1	1	:*	c15d,238x73,0,0,0
+window	home	2	0	:	c15f,238x73,0,0,2
+window	home	3	0	:	c160,238x73,0,0,3
+window	home	4	0	:-	c161,238x73,0,0,4
+window	home	5	0	:	c162,238x73,0,0,5
+window	wlab	1	0	:	c15e,238x73,0,0,1
+window	wlab	2	1	:*	c163,238x73,0,0,6
+window	wlab	3	0	:-	c164,238x73,0,0,7
+window	wlab	4	0	:	c165,238x73,0,0,8
+window	wlab	5	0	:	c166,238x73,0,0,9
+state	wlab	home

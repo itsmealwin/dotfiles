@@ -1,0 +1,12 @@
+pane	Home	1	:fish	0	:-	1	:/Users/alwin/Downloads	1	fish	:
+pane	Home	1	:fish	0	:-	2	:/Users/alwin/Downloads	0	fish	:
+pane	Home	2	:nvimAcs	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	nvim	:nvim acs.network.analysis/acs.network.analysis.network.merger/src/main/java/de/dailab/acs/network/analysis/network/merger/utils/NetworkResponseMergerUtil.java
+pane	Home	3	:svn	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk/acs.network.analysis/acs.network.analysis.network.merger/src/main/java/de/dailab/acs/network/analysis/network/merger/utils	1	fish	:
+pane	Home	4	:dotfiles	0	:	1	:/Users/alwin/.vim	1	nvim	:nvim /Users/alwin/.vim/init.vim
+pane	Home	5	:fish	0	:	1	:/Users/alwin/Documents/Uni/Masterstudium/DistributedAlgorithms/WorkspaceDistributedAlgorithm	1	fish	:
+window	Home	1	0	:-	933c,238x68,0,0{119x68,0,0,1,118x68,120,0,7}
+window	Home	2	1	:*	d360,238x68,0,0,3
+window	Home	3	0	:	d361,238x68,0,0,4
+window	Home	4	0	:	d362,238x68,0,0,5
+window	Home	5	0	:	d363,238x68,0,0,6
+state	Home	

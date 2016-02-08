@@ -1,0 +1,10 @@
+pane	Home	1	:ranger	0	:	1	:/Users/alwin/Downloads	0	fish	:emacs
+pane	Home	1	:ranger	0	:	2	:/Users/alwin	1	fish	:
+pane	Home	2	:nvimAcs	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	nvim	:nvim acs.network.analysis/acs.network.analysis.network.merger/src/main/java/de/dailab/acs/network/analysis/network/merger/utils/NetworkResponseMergerUtil.java
+pane	Home	3	:svn	0	:-	1	:/Users/alwin	1	fish	:
+pane	Home	4	:dotfiles	1	:*	1	:/Users/alwin	1	nvim	:nvim /Users/alwin/.vimrc
+window	Home	1	0	:	1340,238x68,0,0{119x68,0,0,5,118x68,120,0,6}
+window	Home	2	0	:	d35f,238x68,0,0,2
+window	Home	3	0	:-	d360,238x68,0,0,3
+window	Home	4	1	:*	d361,238x68,0,0,4
+state	Home	

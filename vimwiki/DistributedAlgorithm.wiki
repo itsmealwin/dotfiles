@@ -1,0 +1,21 @@
+
+%%        __| (_)___| |_ _ __(_) |__  _   _| |_ ___  __| |   __ _| | __ _  ___  _ __(_) |_| |__  _ __ ___
+%%       / _` | / __| __| '__| | '_ \| | | | __/ _ \/ _` |  / _` | |/ _` |/ _ \| '__| | __| '_ \| '_ ` _ \
+%%      | (_| | \__ \ |_| |  | | |_) | |_| | ||  __/ (_| | | (_| | | (_| | (_) | |  | | |_| | | | | | | | |
+%%       \__,_|_|___/\__|_|  |_|_.__/ \__,_|\__\___|\__,_|  \__,_|_|\__, |\___/|_|  |_|\__|_| |_|_| |_| |_|
+%%                                                                  |___/
+
+
+= Topics =
+
+
+    # [[Clocks]]
+        # Notion of time is really important in distributed system
+
+    # [[ConsistentSnapshotsAndDeadlockDetection]]
+        # How can we take a snapshot of the current distributed system, how to detect deadlocks
+
+    # [[FaultTolerance]]
+        # How to deal with faults, erros, or failures
+
+    #

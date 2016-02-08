@@ -1,0 +1,26 @@
+
+
+== Consistent Snapshots and Deadlock [[Detection]] ==
+
+    # When we create a snapshot we must remember that the state of our system is not only the sum of the state of the nodes because the might be messages underway.
+    # This means that we aim to determine the current system's snapshot without stopping the system itself.
+    # Global states = local states + messages
+    # There is also the term "stable predicate" which means
+        # Does a deadlock exist?
+            # If we are in a deadlock, nothing else can happen anymore, therefore stable
+        # Has the algorithm terminated?
+            # If the algorithm has terminated, nothing else can happen anymore
+        # Can object be collected?
+            # If the object is collected, nothing else can happen with the object anymore
+    # So our requirement is that the determined state should at least be consistent, i.e. not influence-able by messages from the future
+
+    = Deadlock detection =
+
+        # Basically, we send out a message (own-ID, sender-ID, node-ID we are waiting on)
+            # A sends out (A, A, B) -> A thinks B has resource
+            # B sends out (A, B, C) -> B does not have resource, B thinks C has resource
+            # C sends out (A, C, A) -> C does not have resource, C thinks A has resource
+            # When A receives the message from C and sees that it contains 'A' in the last field of the message, A now knows that there is a deadlock
+        # So what to do when deadlock? We kill one node
+
+

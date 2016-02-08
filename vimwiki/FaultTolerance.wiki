@@ -1,0 +1,34 @@
+
+
+== FaultTolerance ==
+
+
+    # Every (non-trivial) system contains fault
+    # Internet is also a distributed system, why is my internet not unavailable 99.99% the time?
+        # Well this is thanks to fault tolerance
+    # The point is "How often are all computers available at the same time?"
+    # Difference between fault, error and failure
+        # Fault is the triggering event (external distribution)
+        # Fault does not always lead to an error, e.g. floating point is faulty but since it is not used, it does not lead to an error
+            # Crash fault: Suddently fails
+            # Timing fault: Actions carried out too late
+                # Important in certain situation: car brakes
+            # Malicious fault: Process does something it is not supposed to do
+
+
+    # Approaches against fault
+        # Fault intolerance
+            # Eliminate fault causes
+            # Avoid faults itself
+                # Extensive testing
+                # Have reliable components
+        # Fault tolerance
+            # By redundancy in dimension of space and/or time
+                # Masking fault tolerance: avoid failure if possible
+                    # Needs if the consequences are intolerable (death, serious financial damage, etc.)
+                    # Always based on redundancy
+                    # E.g. stateless workers, triple modular redundancy (in airplanes)
+                # Non-masking fault tolerance: temp failure is acceptable
+                    # Fail-safe mode
+                    # Traffic light control: when fault, all lights switch to red
+                    # Mechanical stop signs for train: when fault, stop signs fall down to stop all traffic

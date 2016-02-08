@@ -1,0 +1,16 @@
+pane	0	1	:fish	1	:*	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	ACS	1	:ranger	1	:*	1	:/Users/alwin/Documents	1	fish	:
+pane	ACS	2	:vim-acs	0	:-	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	ACS	3	:svn	0	:#	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	ACS	4	:home	0	:#	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	ACS	4	:home	0	:#	2	:/Users/alwin	0	fish	:
+pane	ACS	5	:vimrc	0	:#	1	:/Users/alwin	1	fish	:
+pane	Home	1	:dotfiles	1	:*	1	:/Users/alwin	1	fish	:
+window	0	1	1	:*	d35d,238x68,0,0,0
+window	ACS	1	1	:*	d35e,238x68,0,0,1
+window	ACS	2	0	:-	d35f,238x68,0,0,2
+window	ACS	3	0	:#	d360,238x68,0,0,3
+window	ACS	4	0	:#	8b97,238x68,0,0[238x34,0,0,4,238x33,0,35,5]
+window	ACS	5	0	:#	d363,238x68,0,0,6
+window	Home	1	1	:*	d364,238x68,0,0,7
+state	Home	ACS

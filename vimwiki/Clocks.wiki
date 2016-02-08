@@ -1,0 +1,11 @@
+
+
+= Clocks =
+
+
+= MatrixClocks =
+
+    # Every node has its own matrix of clocks
+    # Stores his own knowledge only on his row
+    # Updates his own knowledge (own row) when message was received from other node
+    # Has the advantage of knowing about the knowledge of other nodes

@@ -1,0 +1,12 @@
+pane	Home	1	:fish	0	:	1	:/Users/alwin	0	fish	:
+pane	Home	1	:fish	0	:	2	:/Users/alwin/Downloads	1	fish	:
+pane	Home	2	:nvimAcs	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	Home	3	:svn	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	Home	4	:dotfiles	0	:-	1	:/Users/alwin/.vim/autoload	1	fish	:
+pane	Home	5	:fish	1	:*	1	:/Users/alwin/Documents/Uni/Masterstudium/DistributedAlgorithms/WorkspaceDistributedAlgorithm	1	fish	:
+window	Home	1	0	:	96ec,238x68,0,0{120x68,0,0,1,117x68,121,0,7}
+window	Home	2	0	:	d360,238x68,0,0,3
+window	Home	3	0	:	d361,238x68,0,0,4
+window	Home	4	0	:-	d362,238x68,0,0,5
+window	Home	5	1	:*	69df,238x68,0,0,10
+state	Home	

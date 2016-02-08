@@ -1,0 +1,9 @@
+cd c
+cd ~
+h
+help
+open_with 0
+rename MscInformatikLP.pdf
+open_with skim
+open_with 
+delete

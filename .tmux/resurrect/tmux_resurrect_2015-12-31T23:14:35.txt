@@ -1,0 +1,12 @@
+pane	Home	1	:fish	1	:*	1	:/Users/alwin/Documents/Film	1	fish	:
+pane	Home	1	:fish	1	:*	2	:/Users/alwin	0	nvim	:nvim .gitconfig
+pane	Home	2	:nvimAcs	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	nvim	:nvim acs.network.analysis/acs.network.analysis.network.merger/src/main/java/de/dailab/acs/network/analysis/network/merger/utils/NetworkResponseMergerUtil.java
+pane	Home	3	:svn	0	:	1	:/Users/alwin/Documents/WorkspaceDaiAcs/acs/trunk	1	fish	:
+pane	Home	4	:dotfiles	0	:-	1	:/Users/alwin/vimwiki	1	nvim	:nvim /Users/alwin/.vimrc
+pane	Home	5	:fish	0	:	1	:/Users/alwin/Documents/Uni/Masterstudium/DistributedAlgorithms/WorkspaceDistributedAlgorithm	1	fish	:
+window	Home	1	1	:*	133a,238x68,0,0{119x68,0,0,1,118x68,120,0,2}
+window	Home	2	0	:	d360,238x68,0,0,3
+window	Home	3	0	:	d361,238x68,0,0,4
+window	Home	4	0	:-	d362,238x68,0,0,5
+window	Home	5	0	:	69e0,238x68,0,0,11
+state	Home	

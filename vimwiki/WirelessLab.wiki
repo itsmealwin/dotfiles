@@ -1,0 +1,45 @@
+
+%%      __      _(_)_ __ ___| | ___  ___ ___| | __ _| |__
+%%      \ \ /\ / / | '__/ _ \ |/ _ \/ __/ __| |/ _` | '_ \
+%%       \ V  V /| | | |  __/ |  __/\__ \__ \ | (_| | |_) |
+%%        \_/\_/ |_|_|  \___|_|\___||___/___/_|\__,_|_.__/
+
+= Wireless (In-)Security =
+
+    == * Security components: ==
+        # Confidentiality
+            # Prevent unauthorized disclosure of information
+        # Integrity
+            # Prevent unauthorized modification of information
+        # Availability
+            # Prevent unauthorized withholding of information
+
+    == * WEP (Wired Equivalent Privacy) ==
+        # Uses shared-secret (Root Key / Rk)
+        # Shared secret between AP and clients
+        # After association process, generate initialization vector (IV), combine with Rk and encrypt it
+        # Since the IV is concatenated to the frame (unencrypted):
+            # If we can infer some structure of the data-frame (such as IP-Header)
+            # Then we can XOR it with the encrypted data in order to retrieve bits about the root-key
+        # Fake-authentication -> retrieve key-stream
+        # Even better -> just use ARP because the WEP has no replay-attack protection
+
+    == * WPA ==
+        # Authentication is performed actually after the OpenAuth-process
+        # Uses various keys for encryption process:
+            # Pairwise master key (PMK)
+                # Derived from SSID + Passphrase (Wlan-password)
+            # Pairwise transient key (PTK)
+                # Derived from SNonce + Message Integrity Code
+                # Used once for one session
+            # Group transient key (GTK)
+
+= Rate Control Algorithms =
+
+    == * Rate Control Algorithms ==
+        # There is an optimal bit-rate for a maximum throughput (given a Path-loss)
+        # IEEE standard does not define a rate control algorithms
+
+        # Auto Rate Fallback (ARF)
+
+
